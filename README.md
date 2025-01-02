@@ -1,11 +1,10 @@
 # Hi 👋, I'm Adem Yahya
 **Embedded Systems | IoT | Python Developer**
 
-- 🔭 I’m currently working on [Votre projet actuel]
+- 🔭 I’m currently working on [GPS-Application]
 - 🌱 I’m currently learning [STM32 / IoT / autre]
 - 👨‍💻 All of my projects are available at [https://github.com/AdemYahya]
-- 📫 How to reach me: [votre email]
-- ⚡ Fun fact: I love [une passion amusante]
+- 📫 How to reach me: [ademyahya01@gmail.com]
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
