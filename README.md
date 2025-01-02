@@ -12,5 +12,4 @@
 ![STM32](https://img.shields.io/badge/-STM32-000?&logo=STMicroelectronics)
 ![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
 
-### GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemYahya&show_icons=true)
+
