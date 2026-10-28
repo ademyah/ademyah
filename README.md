@@ -14,7 +14,7 @@ I am an embedded systems engineer passionate about building intelligent, connect
 
 💼 Open to: Opportunities in Embedded Systems, Firmware, IoT, and Edge AI.
 
-🌐 Portfolio: adem-yahya.netlify.app
+🌐 Portfolio:"https://adem-yahya.netlify.app"
 
 📫 Email: ademyahya01@gmail.com
 
