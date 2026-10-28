@@ -3,11 +3,11 @@ Embedded Systems and IoT Engineer | Embedded Vision, FPGA, Edge AI
 
 Engineering graduate from ISI Manar (Embedded Systems and IoT, 2026), based in Tunis. I build embedded systems that see, decide and communicate: from FPGA and Jetson vision pipelines to STM32 firmware, secure RF links and custom Linux images.
 
-.🎓 **Final year project:** embedded vision for ADAS at Capgemini Engineering (YOLOv8 distillation, FPGA acceleration, Jetson Nano deployment)
-.🔎 **Exploring:** edge AI optimization (quantization, FP16/INT8, hardware deployment) and advanced Embedded Linux with Yocto
-.💼 **Open to:** embedded, IoT and edge AI opportunities
-.🌐 **Portfolio:** zingy-gelato-5f3365.netlify.app
-.📫 **Contact:** ademyahya01@gmail.com · LinkedIn
+  .🎓 **Final year project:** embedded vision for ADAS at Capgemini Engineering (YOLOv8 distillation, FPGA acceleration, Jetson Nano deployment)
+  .🔎 **Exploring:** edge AI optimization (quantization, FP16/INT8, hardware deployment) and advanced Embedded Linux with Yocto
+  .💼 **Open to:** embedded, IoT and edge AI opportunities
+  .🌐 **Portfolio:** zingy-gelato-5f3365.netlify.app
+  .📫 **Contact:** ademyahya01@gmail.com · LinkedIn
 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
