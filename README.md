@@ -1,17 +1,13 @@
-# Hi 👋, I’m **Adem Yahya** — *Embedded Systems | IoT | Python Developer*
+Hi 👋, I'm Adem Yahya
+Embedded Systems and IoT Engineer | Embedded Vision, FPGA, Edge AI
 
-- 🚀 **Currently building:** a real‑time **GPS Fleet‑Tracking Platform** (STM32 + Raspberry Pi + GSM/GPS + Qt)
-- 🌱 **Learning next:** advanced **Embedded Linux**, Yocto & device‑driver design
-- 🧑‍💻 **Highlighted projects:**  
-  - Secure *Keyless‑Entry* system with dual STM32 & RF433 anti‑relay protection  
-  - Fatigue‑detection camera module (OpenCV, SQLite, servo/buzzer alert)  
-  - 16‑bit **RISC** processor & **ALU** testbench in VHDL (Spartan‑3E FPGA)  
-  - Math‑learning Flutter game auto‑generated from handwritten exercises  
-  - Smart home workout coach (PySide6 + Experta rules engine)  
-- 📂 **See them all:** [github.com/ademyah](https://github.com/ademyah)
-- 📫 **Reach me:** [ademyahya01@gmail.com](mailto:ademyahya01@gmail.com)
-- 🌐 **Portfolio:** [zingy-gelato-5f3365.netlify.app](https://zingy-gelato-5f3365.netlify.app/)
-- 🎯 **2024‑25 goals:** contribute to open‑source embedded frameworks & launch a social‑impact IoT startup
+Engineering graduate from ISI Manar (Embedded Systems and IoT, 2026), based in Tunis. I build embedded systems that see, decide and communicate: from FPGA and Jetson vision pipelines to STM32 firmware, secure RF links and custom Linux images.
+
+🎓 Final year project: embedded vision for ADAS at Capgemini Engineering (YOLOv8 distillation, FPGA acceleration, Jetson Nano deployment)
+🔎 Exploring: edge AI optimization (quantization, FP16/INT8, hardware deployment) and advanced Embedded Linux with Yocto
+💼 Open to: embedded, IoT and edge AI opportunities
+🌐 Portfolio: zingy-gelato-5f3365.netlify.app
+📫 Contact: ademyahya01@gmail.com · LinkedIn
 
 ## Languages & Tools
 
