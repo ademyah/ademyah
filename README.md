@@ -1,4 +1,4 @@
-Hi 👋, I'm Adem Yahya
+**Hi 👋, I'm Adem Yahya**
 
 Embedded Systems & IoT Engineer | Edge AI | Embedded Vision | FPGA
 
