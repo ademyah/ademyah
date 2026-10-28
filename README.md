@@ -18,7 +18,6 @@ I am an embedded systems engineer passionate about building intelligent, connect
 
 📫 Email: ademyahya01@gmail.com
 
-💼 LinkedIn: Connect with me
 
 ## 🛠️ Technical Skills
 
